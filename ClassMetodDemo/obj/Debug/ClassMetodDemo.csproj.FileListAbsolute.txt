@@ -1,0 +1,7 @@
+C:\Users\Mustafa GULER\source\repos\ClassMetodDemo\ClassMetodDemo\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Mustafa GULER\source\repos\ClassMetodDemo\ClassMetodDemo\bin\Debug\ConsoleApp3.exe
+C:\Users\Mustafa GULER\source\repos\ClassMetodDemo\ClassMetodDemo\bin\Debug\ConsoleApp3.pdb
+C:\Users\Mustafa GULER\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\ClassMetodDemo.csprojAssemblyReference.cache
+C:\Users\Mustafa GULER\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\ClassMetodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa GULER\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\ConsoleApp3.exe
+C:\Users\Mustafa GULER\source\repos\ClassMetodDemo\ClassMetodDemo\obj\Debug\ConsoleApp3.pdb
